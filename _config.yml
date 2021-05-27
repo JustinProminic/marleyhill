@@ -1,0 +1,4 @@
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-coffeescript
